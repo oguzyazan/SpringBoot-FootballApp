@@ -2,7 +2,7 @@ package com.example.footballapp.controller;
 
 
 import com.example.footballapp.model.Country;
-import com.example.footballapp.service.CountryService;
+import com.example.footballapp.service.Country.CountryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.web.bind.annotation.*;
